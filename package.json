@@ -1,0 +1,22 @@
+{
+  "name": "icaf",
+  "version": "1.0.0",
+  "description": "International Conference on Application Frameworks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html"
+  },
+  "keywords": [
+    "ICAF"
+  ],
+  "author": "2021S1_JUNE_WE_07",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "parcel": "^2.0.0-beta.3.1"
+  }
+}
